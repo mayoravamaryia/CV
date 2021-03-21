@@ -213,9 +213,9 @@ body {
 .profession-duties-item {
   color: #000;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 24px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .education-title {
